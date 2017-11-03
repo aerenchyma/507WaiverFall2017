@@ -54,4 +54,30 @@ USAGE: the program does different things based on the arguments passed in.
 
 **part2.py orders emp=&lt;employee last name&gt;**: prints the list of _order dates_ for all orders managed by the specified employee. Use the _employee last name_ for this command.
 
+SAMPLE OUTPUT:
 The sample output is large, so it's on another page: [Sample Output](https://github.com/numerator/507WaiverFall2017/blob/master/part2_output.md)
+
+NOTES: Use sqlite3.
+
+## Part 3: Scrape the Michigan Daily
+
+FILENAME: part3.py
+
+Finally, in part 3, you will use Beautiful Soup to scrape the Most Read stories from the Michigan Daily site (http://michigandaily.com), and will crawl one level deeper to find the author of each Most Read story.
+
+SAMPLE OUTPUT:
+```
+dhcp3-213:507waiver2 mwnewman$ python3 part3.py   
+Michigan Daily -- MOST READ  
+Darkness and the Occult: A brief history of doom metal  
+  by Selena Aguilera
+UPDATE: University confirms Richard Spencer has requested to speak at 'U'  
+  by Kaela Theut
+"The white rice was excellent. Followed the directions on the bag perfectly. Way to go."  
+  by Hunter Zhao
+Schlissel: "I try not to have a personal opinion" on potential C.C. Little renaming, awaiting further review  
+  by Alexa St. John
+A guide to Michigan's 2018 gubernatorial race
+  by Colin Beresford
+```
+NOTES: If there is more than one reporter, you only need to print the first name on the byline.
