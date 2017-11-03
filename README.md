@@ -39,7 +39,19 @@ ORIGINAL TWEETS: 27
 TIMES FAVORITED (ORIGINAL TWEETS ONLY): 69
 TIMES RETWEETED (ORIGINAL TWEETS ONLY): 18
 ```
+## Part 2: Create a Simple Database application
 
-## Part 2
+For part 2, you will create a program to access information in the Northwind database (included in the repository)
 
-[Sample Output](https://github.com/numerator/507WaiverFall2017/blob/master/part2_output.md)
+FILENAME: part2.py
+
+USAGE: the program does different things based on the arguments passed in.  
+**part2.py customers**: prints the list of all cusomters
+
+**part2.py employees**: prints the list of all employees
+
+**part2.py orders cust=&lt;customer id&gt;**: prints the list of _order dates_ for all orders placed for the specified customer. Use the _customer ID_ for this command.
+
+**part2.py orders emp=&lt;employee last name&gt;**: prints the list of _order dates_ for all orders managed by the specified employee. Use the _employee last name_ for this command.
+
+The sample output is large, so it's on another page: [Sample Output](https://github.com/numerator/507WaiverFall2017/blob/master/part2_output.md)
