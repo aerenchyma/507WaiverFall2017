@@ -40,4 +40,6 @@ TIMES FAVORITED (ORIGINAL TWEETS ONLY): 69
 TIMES RETWEETED (ORIGINAL TWEETS ONLY): 18
 ```
 
-## Part 
+## Part 2
+
+[Sample Output](https://github.com/numerator/507WaiverFall2017/blob/master/part2_output.md)
