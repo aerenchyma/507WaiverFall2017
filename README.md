@@ -13,7 +13,7 @@ This waiver assignment is composed of activity parts that cover many, but not al
 
 ## Part 1: Create a program to analyze the twitter timeline of a selected user.
 
-FILENAME: part1.py
+FILENAME: `part1.py`
 
 ARGUMENTS: the program takes two arguments--a twitter username and the number of tweets to analyze.
 
@@ -109,6 +109,8 @@ A guide to Michigan's 2018 gubernatorial race
 NOTES: If there is more than one reporter, you only need to print the first name on the byline.
 
 ## Part 4: Visualize some data
+
+FILENAME: `part4.py`
 
 Write code that uses **plot.ly** to create a bar chart representing the data you got in **Part 1** about the most common *nouns* only in the Twitter data. More information about using plot.ly for bar chart creation can be found here: https://plot.ly/python/bar-charts/
 
