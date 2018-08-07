@@ -7,6 +7,8 @@ Waiver exam for University of Michigan UMSI course, SI 507. You must complete al
 ## To complete and submit
 You should accept this assignment via GitHub Classroom and commit all of the files already included here, edited to include the solutions, PLUS two more files: the `noun_data.csv` you will create in Part 1, and the `part4_viz_image.png` file you will create in Part 4.
 
+**Important**
+You must complete the following form once you have finished your waiver: https://goo.gl/forms/S1PzACs0znOQYJcq2 If you do not fill out the form, then the graders will not evaluate your work.
 
 **Note**
 This waiver assignment is composed of activity parts that cover many, but not all, of the learning objectives from SI 507, including using source control like Git, learning to use new libraries for data manipulation for UX or analysis like NLTK or BeautifulSoup, organizing and dealing with complex data problems, and using libraries to access, process, and explore data, along with using/investigating any tools and/or programming knowledge that you need to complete these tasks. SI 507 is not limited to these things, but if you can complete this assignment in less than several weeks, you are ready to go on to more advanced programming courses and learn other aspects of SI 507 as you need if you do not already know them.
@@ -48,7 +50,7 @@ mwnewman$ python3 get_tweets.py umsi 12
 USER: umsi
 TWEETS ANALYZED: 12
 VERBS: are(4) being(3) is(3) improve(2) Join(2)
-NOUNS: umsi(8) UMSI(8) students(5) Join(5) amp(5)
+NOUNS: UMSI(8) umsi(8) amp(5) Join(5) students(5) 
 ADJECTIVES more(5) umsi(4) doctoral(2) new(2) social(2)
 ORIGINAL TWEETS: 8
 TIMES FAVORITED (ORIGINAL TWEETS ONLY): 26
@@ -58,11 +60,11 @@ TIMES RETWEETED (ORIGINAL TWEETS ONLY): 18
 SAMPLE CSV FILE OUTPUT **inside a .csv file**
 ```txt
 Noun,Number
-umsi,8
 UMSI,8
-students,5
-Join,5
+umsi,8
 amp,5
+Join,5
+students,5
 ```
 
 
