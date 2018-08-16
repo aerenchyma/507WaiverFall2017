@@ -40,6 +40,7 @@ NOTES:
 * a "verb" is anything that is tagged VB*
 * a "noun" is anything that is tagged NN*
 * an "adjective" is anything that is tagged JJ*
+* Twitter has recently changed their requirements for developers. Add a comment to part1.py to let us know when you gain access to the app (or if you do not gained access at all to the app by the end of the due date). If you do not gain access, we have provided a sample of the noun_data.csv file that would be produced by running part1.py so that you can use it for later parts of the waiver. However, understanding how to use APIs is an important part of 507 so you should make sure you feel confident about that material when submitting the waiver.
 
 
 
@@ -114,7 +115,7 @@ NOTES: If there is more than one reporter, you only need to print the first name
 
 FILENAME: `part4.py`
 
-Write code that uses **plot.ly** to create a bar chart representing the data you got in **Part 1** about the most common *nouns* only in the Twitter data. More information about using plot.ly for bar chart creation can be found here: https://plot.ly/python/bar-charts/
+Write code that uses **plot.ly** to create a bar chart representing the data you got in **Part 1** about the most common *nouns* only in the Twitter data. If you were unable to access Twitter, use the sample_noun_data.csv file. More information about using plot.ly for bar chart creation can be found here: https://plot.ly/python/bar-charts/
 
 You should use `part4.py` to do so.
 
