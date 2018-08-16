@@ -38,6 +38,7 @@ NOTES:
 * a "verb" is anything that is tagged VB*
 * a "noun" is anything that is tagged NN*
 * an "adjective" is anything that is tagged JJ*
+* Twitter has recently changed their requirements for developers. Add a comment to part1.py to let us know when you gain access to the app (or if you do not gained access at all to the app by the end of the due date). If you do not gain access, we have provided a sample of the noun_data.csv file that would be produced by running part1.py so that you can use it for later parts of the waiver. However, understanding how to use APIs is an important part of 507 so you should make sure you feel confident about that material when submitting the waiver.
 
 
 
