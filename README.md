@@ -113,7 +113,7 @@ NOTES: If there is more than one reporter, you only need to print the first name
 
 FILENAME: `part4.py`
 
-Write code that uses **plot.ly** to create a bar chart representing the data you got in **Part 1** about the most common *nouns* only in the Twitter data. More information about using plot.ly for bar chart creation can be found here: https://plot.ly/python/bar-charts/
+Write code that uses **plot.ly** to create a bar chart representing the data you got in **Part 1** about the most common *nouns* only in the Twitter data. If you were unable to access Twitter, use the sample_noun_data.csv file. More information about using plot.ly for bar chart creation can be found here: https://plot.ly/python/bar-charts/
 
 You should use `part4.py` to do so.
 
